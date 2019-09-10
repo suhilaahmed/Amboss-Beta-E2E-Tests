@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b725845-a593-4263-b7d4-f48242c9d82b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/pages/customSessionCreation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/utilities/CommonUtilities.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/pages/customeSession.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/resources/webLocators.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/tests/custome-session-creation-tests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/tests/login-tests.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/pages/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hola/resources/testData.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>empty</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/resources/testData.json" />
+        <option value="$PROJECT_DIR$/src/pages/Login.js" />
+        <option value="$PROJECT_DIR$/src/hola/utilities/CommonUtilities.js" />
+        <option value="$PROJECT_DIR$/report-generator.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/hola/pages/customeSessionCreation.js" />
+        <option value="$PROJECT_DIR$/src/hola/resources/objects.json" />
+        <option value="$PROJECT_DIR$/src/hola/pages/customSessionCreation.js" />
+        <option value="$PROJECT_DIR$/src/hola/tests/login-tests.js" />
+        <option value="$PROJECT_DIR$/src/hola/pages/customeSession.js" />
+        <option value="$PROJECT_DIR$/src/hola/resources/testData.json" />
+        <option value="$PROJECT_DIR$/src/hola/tests/custome-session-creation-tests.js" />
+        <option value="$PROJECT_DIR$/src/hola/pages/Login.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hola" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hola" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hola" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hola" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hola" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Amboss-Beta-Automated-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Amboss-Beta-Automated-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hola" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/hola/tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/hola/tests/reports" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b725845-a593-4263-b7d4-f48242c9d82b" name="Default Changelist" comment="" />
+      <created>1567848015714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567848015714</updated>
+      <workItem from="1567848016917" duration="37721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37721000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.2972973" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/resources/zap-session/coredb.session">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/zap-session/coredb.session.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/zap-session/coredb.session.script">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/zap-session/sso_auth_token.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/objects.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1437" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/login-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/CommonUtilities.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/error-messages.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/hola.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/AddAlpha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/testData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/multiple-cucumber-html-reporter/lib/generate-report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="498" selection-start-line="498" selection-end-line="498" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/res.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/reports/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/pages/AddAlpha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="63" lean-forward="true" selection-end-line="63" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/add-alpha-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/add-title-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/edit-alpha-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/edit-title-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/utilities/error-messages.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="108" selection-start-line="7" selection-start-column="108" selection-end-line="7" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/pages/AddTitle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/pages/LookupEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1972">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/utilities/xpath-selector.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/utilities/hola.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/login-tests.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/utilities/CommonUtilities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/pages/customeSession.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/reports/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17895">
+          <caret line="1193" selection-start-line="1193" selection-end-line="1193" />
+          <folding>
+            <element signature="e#2309#2316#1" expanded="true" />
+            <element signature="e#2514#2534#0" expanded="true" />
+            <element signature="e#2572#2592#0" expanded="true" />
+            <element signature="e#22770#22775#0" expanded="true" />
+            <element signature="e#22779#22784#0" expanded="true" />
+            <element signature="e#22801#22806#0" expanded="true" />
+            <element signature="e#22810#22815#0" expanded="true" />
+            <element signature="e#23062#23066#0" expanded="true" />
+            <element signature="e#23805#23810#0" expanded="true" />
+            <element signature="e#23814#23819#0" expanded="true" />
+            <element signature="e#23836#23841#0" expanded="true" />
+            <element signature="e#23845#23850#0" expanded="true" />
+            <element signature="e#24097#24101#0" expanded="true" />
+            <element signature="e#25093#25097#0" expanded="true" />
+            <element signature="e#25286#25292#0" expanded="true" />
+            <element signature="e#25308#25313#0" expanded="true" />
+            <element signature="e#25348#25353#0" expanded="true" />
+            <element signature="e#25354#25360#0" expanded="true" />
+            <element signature="e#26278#26282#0" expanded="true" />
+            <element signature="e#26471#26477#0" expanded="true" />
+            <element signature="e#26493#26498#0" expanded="true" />
+            <element signature="e#26533#26538#0" expanded="true" />
+            <element signature="e#26539#26545#0" expanded="true" />
+            <element signature="e#27071#27077#0" expanded="true" />
+            <element signature="e#27120#27126#0" expanded="true" />
+            <element signature="e#27652#27656#0" expanded="true" />
+            <element signature="e#28558#28563#0" expanded="true" />
+            <element signature="e#28568#28573#0" expanded="true" />
+            <element signature="e#28590#28595#0" expanded="true" />
+            <element signature="e#28600#28605#0" expanded="true" />
+            <element signature="e#28852#28856#0" expanded="true" />
+            <element signature="e#29858#29862#0" expanded="true" />
+            <element signature="e#30051#30057#0" expanded="true" />
+            <element signature="e#30073#30078#0" expanded="true" />
+            <element signature="e#30113#30118#0" expanded="true" />
+            <element signature="e#30119#30125#0" expanded="true" />
+            <element signature="e#30789#30795#0" expanded="true" />
+            <element signature="e#30838#30844#0" expanded="true" />
+            <element signature="e#31169#31173#0" expanded="true" />
+            <element signature="e#32232#32236#0" expanded="true" />
+            <element signature="e#33149#33154#0" expanded="true" />
+            <element signature="e#33159#33164#0" expanded="true" />
+            <element signature="e#33181#33186#0" expanded="true" />
+            <element signature="e#33191#33196#0" expanded="true" />
+            <element signature="e#33443#33447#0" expanded="true" />
+            <element signature="e#34202#34207#0" expanded="true" />
+            <element signature="e#34211#34216#0" expanded="true" />
+            <element signature="e#34233#34238#0" expanded="true" />
+            <element signature="e#34242#34247#0" expanded="true" />
+            <element signature="e#34494#34498#0" expanded="true" />
+            <element signature="e#35303#35309#0" expanded="true" />
+            <element signature="e#35349#35355#0" expanded="true" />
+            <element signature="e#35542#35546#0" expanded="true" />
+            <element signature="e#36376#36380#0" expanded="true" />
+            <element signature="e#36389#36393#0" expanded="true" />
+            <element signature="e#36740#36746#0" expanded="true" />
+            <element signature="e#36776#36782#0" expanded="true" />
+            <element signature="e#37097#37101#0" expanded="true" />
+            <element signature="e#37871#37875#0" expanded="true" />
+            <element signature="e#37884#37888#0" expanded="true" />
+            <element signature="e#38167#38173#0" expanded="true" />
+            <element signature="e#38216#38222#0" expanded="true" />
+            <element signature="e#38547#38551#0" expanded="true" />
+            <element signature="e#39433#39439#0" expanded="true" />
+            <element signature="e#39481#39487#0" expanded="true" />
+            <element signature="e#39917#39921#0" expanded="true" />
+            <element signature="e#40571#40575#0" expanded="true" />
+            <element signature="e#40584#40588#0" expanded="true" />
+            <element signature="e#40936#40942#0" expanded="true" />
+            <element signature="e#40972#40978#0" expanded="true" />
+            <element signature="e#41293#41297#0" expanded="true" />
+            <element signature="e#42067#42071#0" expanded="true" />
+            <element signature="e#42080#42084#0" expanded="true" />
+            <element signature="e#42625#42629#0" expanded="true" />
+            <element signature="e#42818#42824#0" expanded="true" />
+            <element signature="e#42840#42845#0" expanded="true" />
+            <element signature="e#42880#42885#0" expanded="true" />
+            <element signature="e#42886#42892#0" expanded="true" />
+            <element signature="e#43551#43557#0" expanded="true" />
+            <element signature="e#43600#43606#0" expanded="true" />
+            <element signature="e#43931#43935#0" expanded="true" />
+            <element signature="e#44989#44993#0" expanded="true" />
+            <element signature="e#45901#45906#0" expanded="true" />
+            <element signature="e#45911#45916#0" expanded="true" />
+            <element signature="e#45933#45938#0" expanded="true" />
+            <element signature="e#45943#45948#0" expanded="true" />
+            <element signature="e#46195#46199#0" expanded="true" />
+            <element signature="e#46945#46950#0" expanded="true" />
+            <element signature="e#46954#46959#0" expanded="true" />
+            <element signature="e#46976#46981#0" expanded="true" />
+            <element signature="e#46985#46990#0" expanded="true" />
+            <element signature="e#47237#47241#0" expanded="true" />
+            <element signature="e#48017#48023#0" expanded="true" />
+            <element signature="e#48072#48078#0" expanded="true" />
+            <element signature="e#48347#48351#0" expanded="true" />
+            <element signature="e#49194#49198#0" expanded="true" />
+            <element signature="e#49207#49211#0" expanded="true" />
+            <element signature="e#49758#49762#0" expanded="true" />
+            <element signature="e#49951#49957#0" expanded="true" />
+            <element signature="e#49973#49978#0" expanded="true" />
+            <element signature="e#50013#50018#0" expanded="true" />
+            <element signature="e#50019#50025#0" expanded="true" />
+            <element signature="e#50690#50696#0" expanded="true" />
+            <element signature="e#50739#50745#0" expanded="true" />
+            <element signature="e#51070#51074#0" expanded="true" />
+            <element signature="e#52134#52138#0" expanded="true" />
+            <element signature="e#53052#53057#0" expanded="true" />
+            <element signature="e#53062#53067#0" expanded="true" />
+            <element signature="e#53084#53089#0" expanded="true" />
+            <element signature="e#53094#53099#0" expanded="true" />
+            <element signature="e#53346#53350#0" expanded="true" />
+            <element signature="e#54094#54099#0" expanded="true" />
+            <element signature="e#54102#54107#0" expanded="true" />
+            <element signature="e#54124#54129#0" expanded="true" />
+            <element signature="e#54133#54138#0" expanded="true" />
+            <element signature="e#54385#54389#0" expanded="true" />
+            <element signature="e#55597#55601#0" expanded="true" />
+            <element signature="e#56225#56229#0" expanded="true" />
+            <element signature="e#56238#56242#0" expanded="true" />
+            <element signature="e#56585#56591#0" expanded="true" />
+            <element signature="e#56631#56637#0" expanded="true" />
+            <element signature="e#56824#56828#0" expanded="true" />
+            <element signature="e#57658#57662#0" expanded="true" />
+            <element signature="e#57671#57675#0" expanded="true" />
+            <element signature="e#58021#58027#0" expanded="true" />
+            <element signature="e#58057#58063#0" expanded="true" />
+            <element signature="e#58378#58382#0" expanded="true" />
+            <element signature="e#59152#59156#0" expanded="true" />
+            <element signature="e#59165#59169#0" expanded="true" />
+            <element signature="e#59453#59458#0" expanded="true" />
+            <element signature="e#59461#59466#0" expanded="true" />
+            <element signature="e#59483#59488#0" expanded="true" />
+            <element signature="e#59493#59498#0" expanded="true" />
+            <element signature="e#59745#59749#0" expanded="true" />
+            <element signature="e#60491#60496#0" expanded="true" />
+            <element signature="e#60499#60504#0" expanded="true" />
+            <element signature="e#60521#60526#0" expanded="true" />
+            <element signature="e#60530#60535#0" expanded="true" />
+            <element signature="e#60782#60786#0" expanded="true" />
+            <element signature="e#61532#61537#0" expanded="true" />
+            <element signature="e#61540#61545#0" expanded="true" />
+            <element signature="e#61562#61567#0" expanded="true" />
+            <element signature="e#61571#61576#0" expanded="true" />
+            <element signature="e#61823#61827#0" expanded="true" />
+            <element signature="e#62577#62582#0" expanded="true" />
+            <element signature="e#62586#62591#0" expanded="true" />
+            <element signature="e#62608#62613#0" expanded="true" />
+            <element signature="e#62617#62622#0" expanded="true" />
+            <element signature="e#62869#62873#0" expanded="true" />
+            <element signature="e#63873#63877#0" expanded="true" />
+            <element signature="e#64066#64072#0" expanded="true" />
+            <element signature="e#64088#64093#0" expanded="true" />
+            <element signature="e#64128#64133#0" expanded="true" />
+            <element signature="e#64134#64140#0" expanded="true" />
+            <element signature="e#64801#64807#0" expanded="true" />
+            <element signature="e#64850#64856#0" expanded="true" />
+            <element signature="e#65181#65185#0" expanded="true" />
+            <element signature="e#66069#66075#0" expanded="true" />
+            <element signature="e#66113#66119#0" expanded="true" />
+            <element signature="e#66549#66553#0" expanded="true" />
+            <element signature="e#67203#67207#0" expanded="true" />
+            <element signature="e#67216#67220#0" expanded="true" />
+            <element signature="e#67510#67515#0" expanded="true" />
+            <element signature="e#67520#67525#0" expanded="true" />
+            <element signature="e#67542#67547#0" expanded="true" />
+            <element signature="e#67552#67557#0" expanded="true" />
+            <element signature="e#67804#67808#0" expanded="true" />
+            <element signature="e#68556#68561#0" expanded="true" />
+            <element signature="e#68565#68570#0" expanded="true" />
+            <element signature="e#68587#68592#0" expanded="true" />
+            <element signature="e#68596#68601#0" expanded="true" />
+            <element signature="e#68848#68852#0" expanded="true" />
+            <element signature="e#69604#69609#0" expanded="true" />
+            <element signature="e#69613#69618#0" expanded="true" />
+            <element signature="e#69635#69640#0" expanded="true" />
+            <element signature="e#69644#69649#0" expanded="true" />
+            <element signature="e#69896#69900#0" expanded="true" />
+            <element signature="e#70646#70651#0" expanded="true" />
+            <element signature="e#70655#70660#0" expanded="true" />
+            <element signature="e#70677#70682#0" expanded="true" />
+            <element signature="e#70686#70691#0" expanded="true" />
+            <element signature="e#70938#70942#0" expanded="true" />
+            <element signature="e#71685#71690#0" expanded="true" />
+            <element signature="e#71694#71699#0" expanded="true" />
+            <element signature="e#71716#71721#0" expanded="true" />
+            <element signature="e#71725#71730#0" expanded="true" />
+            <element signature="e#71977#71981#0" expanded="true" />
+            <element signature="e#72783#72789#0" expanded="true" />
+            <element signature="e#72831#72837#0" expanded="true" />
+            <element signature="e#73152#73156#0" expanded="true" />
+            <element signature="e#73926#73930#0" expanded="true" />
+            <element signature="e#73939#73943#0" expanded="true" />
+            <element signature="e#74220#74226#0" expanded="true" />
+            <element signature="e#74269#74275#0" expanded="true" />
+            <element signature="e#74600#74604#0" expanded="true" />
+            <element signature="e#75656#75660#0" expanded="true" />
+            <element signature="e#76566#76571#0" expanded="true" />
+            <element signature="e#76576#76581#0" expanded="true" />
+            <element signature="e#76598#76603#0" expanded="true" />
+            <element signature="e#76608#76613#0" expanded="true" />
+            <element signature="e#76860#76864#0" expanded="true" />
+            <element signature="e#77612#77617#0" expanded="true" />
+            <element signature="e#77621#77626#0" expanded="true" />
+            <element signature="e#77643#77648#0" expanded="true" />
+            <element signature="e#77652#77657#0" expanded="true" />
+            <element signature="e#77904#77908#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/pages/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/tests/custome-session-creation-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/pages/customSessionCreation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/resources/testData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola/resources/webLocators.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

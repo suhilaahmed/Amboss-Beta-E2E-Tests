@@ -1,0 +1,101 @@
+{
+  "loginPage" : {
+    "emailTextField" : "//*[@id = 'signin_username']",
+    "passwordTextField" : "//*[@id = 'signin_password']",
+    "loginButton" : "//*[@value = 'Log in']",
+    "errorAlert" : "//*[text() = 'Invalid email/password']"
+  },
+
+  "homePage" : {
+    "QBankOption": "//*[@data-e2e-test-id ='L0Chevron-Qbank']",
+    "customSessionOption": "//div[@data-e2e-test-id = 'L0-secondlevel-Custom session']"
+  },
+
+  "customSessionPage" : {
+    "startSessionButton" : "//*[@data-e2e-test-id = 'undefined']//div[text() ='Start']",
+    "ExamOption": "//*[@data-test-id = 'checkbox-text' and text() = 'Exam']",
+    "SymptomsOption": "//*[@data-test-id = 'checkbox-text' and text() = 'Symptoms']",
+    "LearningCardsOption": "//*[@data-test-id = 'checkbox-text' and text() = 'Learning Cards']",
+    "OrganSystemsOption": "//*[@data-test-id = 'checkbox-text' and text() = 'Organ systems']",
+    "SubjectsSystemsOption": "//*[@data-test-id = 'checkbox-text' and text() = 'Subjects']",
+    "ListsSystemsOption": "//*[@data-test-id = 'checkbox-text' and text() = 'List']",
+    "DifficultySystemsOption": "//*[@data-test-id = 'checkbox-text' and text() = 'Difficulty']",
+    "StatusSystemsOption": "//*[@data-test-id = 'checkbox-text' and text() = 'Status']",
+    "ImagesOnlyOption" : "//*[@data-e2e-test-id = 'images-only-toggle']",
+    "automaticTitleOption" : "//*[@data-e2e-test-id = 'automatic-title-toggle']",
+    "customSessionTitleInput" : "//*[@data-e2e-test-id = 'modalInput']",
+    "guidanceMode" : "//*[@data-e2e-test-id = 'radio']//span[@name = 'guidance']",
+    "nonGuidanceMode" : "//*[@data-e2e-test-id = 'radio']//span[@name = 'exam']",
+    "ExamSimulationMode" : "//*[@data-e2e-test-id = 'radio']//span[@name = 'examSimulation']",
+    "questionCountInput" : "//*[@data-e2e-test-id = 'inputQuestionNumber']",
+    "optionCheck" : "//*[@data-e2e-test-id = 'checkbox-neutral_checked']",
+    "doneButton" : "//*[@data-e2e-test-id = 'undefined']//div[text() ='Done']",
+    "errorAlert" : "//*[text() = 'cannot create session']"
+  },
+
+  "questionsPage" : {
+    "sessionTitle" : "//*[@data-e2e-test-id = 'sessionTitle']",
+    "sessionQuestionCount" : "//*[@data-e2e-test-id = 'sessionQuestionCount']",
+    "questionImage" : "//*[@data-e2e-test-id = 'Thumbnail']",
+    "viewbtn" : "//button[@data-e2e-test-id = 'hint-btn']//div[text() = 'View']",
+    "disableAnswersStats": "//label[@class= 'label-87677954--labelDisabled-3951353074']",
+    "hintbtn" : "//button[@data-e2e-test-id= 'hint-btn']//div[text() = 'Hint']",
+    "highlightbtn" : "//button[@data-e2e-test-id= 'highlight-btn']",
+    "lockbtn":"//button[@id= 'lock']"
+  },
+
+  "addAlphaPage" : {
+    "clientDropList" : "//div[text() = 'Client']",
+    "clientOption" : "//li[@role = 'option']",
+    "alphaNameField" : "//input[@id = 'name']",
+    "categoryDropList" : "//div[text() = 'Alpha Category']",
+    "programCategoryOption" : "//li[text() = 'Program']",
+    "marketingCategoryOption" : "//li[text() = 'Marketing']",
+    "vamCategoryOption" : "//li[text() = 'Bonus/Vam']",
+    "editUseDropList" : "//div[text() = 'Select Edit Use']",
+    "editUseOTTOption" : "//li[text() = 'Web']",
+    "frameRateDropList" : "//div[text() = 'Frame Rate']",
+    "frameRateIntegerOption" : "//li[text() = '24']",
+    "frameRateFractionOption" : "//li[text() = '23.98']",
+    "marketingTypeDropList" : "//div[text() = 'Select Type']",
+    "marketingEPKOption" : "//li[text() = 'EPK (EPK)']",
+    "vamTypeDropList" : "//div[text() = 'VAM Type']",
+    "vamAlternateCutOption" : "//li[text() = 'Alternate Cut (ALTCUT)']",
+    "addBtn" : "(//button[@type = 'submit'])[2]",
+    "alphaSavedMessage" : "//span[text() = 'alpha Saved']",
+    "alphaErrorMessage" : "//*[@class = 'ant-form-explain']",
+
+    "editClassDropList" : "//div[text() = 'Edit Class']",
+    "editClassSplitOption" : "//li[text() = 'Split']",
+    "part" : "//input[@id = 'part']",
+    "partOf" : "//input[@id = 'partOf']",
+    "splitSelectedOption": "//div[@class ='ant-select-selection__choice__content' and text() = 'Split']"
+
+  },
+
+  "lookupEditorPage" : {
+    "addNewRowButton" : "//*[@testid='addButton']",
+    "editRowButton" : "//*[@testid='editButton0']",
+    "deleteRowButton" : "//*[@testid='deleteButton0']",
+    "confirmButton": "//*[@testid ='editConfirmButton']",
+    "lookupsDropDownList": "//*[@class = 'ant-select-selection__placeholder' and text()='Table']",
+    "nameTextField" : "//input[@id= 'name']",
+    "abbreviationTextField": "//input[@id='abbreviation']",
+    "dataAddedMessage" : "//span[text() = 'Data saved successfully']",
+    "okButton": "//button[@class= 'ant-btn ant-btn-primary']",
+    "cancelDeleteButton": "//button[@testid='deleteCancelButton']",
+    "confirmDeleteButton": "//button[@testid= 'deleteConfirmButton']",
+    "deleteErrorTitle": "//*[@class = 'ant-modal-confirm-title' and text() = 'Failed to delete entity']",
+    "aspectRatioField" : "//input[@id='aspectRatio']",
+    "companyNameTextField" : "//input[@id= 'company']",
+    "callingCodeTextField" : "//input[@id= 'callingCode']",
+    "alphaCodeTextField" : "//input[@id= 'alphaCode']",
+    "itemDeletedMessage" : "//*[@class = 'ant-modal-confirm-title' and text() = 'Item deleted']",
+    "currencyTextField" : "//input[@id= 'currency']",
+    "currencyCodeTextField" : "//input[@id= 'currencyCode']",
+    "FieldIsRequiredError" : "//*[@class ='ant-form-explain']",
+    "lineItemTypeTextField" : "//input[@id= 'lineItemType']"
+
+  }
+
+}
